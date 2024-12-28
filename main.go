@@ -14,7 +14,7 @@ import (
 	"github.com/gofiber/fiber/v2"
 )
 
-// @title TES SWAGGER PASIEN
+// @title TES SWAGGER KALORIKU
 // @version 1.0
 // @description This is a sample swagger for Fiber
 
